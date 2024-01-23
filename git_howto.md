@@ -4,7 +4,10 @@
 ```sh
 git init
 ```
-
+Получение информации от Git о его текущем состоянии:
+```sh
+git status
+```
 git add
 git commit -m "Message"
 git log
