@@ -32,4 +32,7 @@ git checkout
 ```sh
 git checkout master
 ```
-
+Разница между текущим файлом и закоммиченным файлом:
+```sh
+git diff
+```
