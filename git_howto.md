@@ -20,6 +20,9 @@ git commit -m "Message"
 ```sh
 git log
 ```
-
+Вывод на экран истории всех коммитов с хэш-кодами (сокращенный вариант):
+```sh
 git log --oneline
+```
+
 git checkout
