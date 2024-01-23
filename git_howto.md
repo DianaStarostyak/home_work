@@ -12,8 +12,10 @@ git status
 ```sh
 git add
 ```
-
+Создание коммита:
+```sh
 git commit -m "Message"
+```
 git log
 git log --oneline
 git checkout
