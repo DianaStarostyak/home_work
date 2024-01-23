@@ -28,3 +28,8 @@ git log --oneline
 ```sh
 git checkout
 ```
+Возвращение к актуальному состоянию и продолжение работы:
+```sh
+git checkout master
+```
+
