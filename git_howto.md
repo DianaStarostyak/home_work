@@ -38,7 +38,7 @@ git diff
 ```
 Перемещение по веткам:
 ```sh
-git checkout <filename>
+git checkout <имя ветки>
 ```
 Отображение всех веток:
 ```sh
