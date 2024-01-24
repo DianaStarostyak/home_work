@@ -36,3 +36,7 @@ git checkout master
 ```sh
 git diff
 ```
+Перемещение по веткам:
+```sh
+git checkout
+```
