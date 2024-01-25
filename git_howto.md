@@ -49,6 +49,7 @@ Cоздание новой ветки:
 ```sh
 git branch <имя_ветки>
 ```
-
-git branch -d <имя_ветки>
-git log ---oneline --graph
+Визуализация всех веток, список всех комитов:
+```sh
+git log --graph
+```
